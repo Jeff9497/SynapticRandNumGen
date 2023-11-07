@@ -1,7 +1,6 @@
 # SynapticRandNumGen
-Neural Network-Powered Random Number Generator for Unpredictable Sequences.
-# SynapticRandNumGen  is a Python-based neural network program that generates pseudo-random number sequences.
-# This innovative tool employs neural network technology to create unpredictable number sequences by learning from existing datasets.
+SynapticRandNumGen is a Python-based neural network program that generates pseudo-random number sequences.
+This innovative tool employs neural network technology to create unpredictable number sequences by learning from existing datasets.
 
 # Installation
 To use NeuroGen, please ensure you have the following dependencies installed:

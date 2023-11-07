@@ -6,7 +6,9 @@ This innovative tool employs neural network technology to create unpredictable n
 To use NeuroGen, please ensure you have the following dependencies installed:
 
 1- NumPy
+
 2- scikit-learn (sklearn)
+
 You can install these dependencies using pip:
 
 # pip install numpy scikit-learn
